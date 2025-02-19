@@ -1,6 +1,6 @@
 # Time Series Forecasting Implementation in Python
 
-Welcome to my project! This repository is dedicated to transforming the incredible insights found in [Forecasting: Principles and Practice], a book by Rob J. Hyndman and George Athanasopoulos, into Python-friendly content.
+Welcome to my project! This repository is dedicated to transforming the incredible insights found in **Forecasting: Principles and Practice**, a book by Rob J. Hyndman and George Athanasopoulos, into Python-friendly content.
 
 My objective is to enable Python enthusiasts and developers to harness the extensive knowledge encapsulated in this book. This adaptation into Python will provide a convenient avenue for Python users to apply powerful forecasting concepts, strategies, and techniques in a programming language they are comfortable with.
 
